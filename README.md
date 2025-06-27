@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 - 🛠️ Tech Stack:
   - Flutter / Dart
   - Firebase / Firestore
-  - Provider / Riverpod / Bloc
+  - Provider 
   - REST APIs / JSON
   - Git & GitHub
 
