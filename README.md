@@ -35,7 +35,8 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+>                                      “Code is like humor.
+>                                          When you have to explain it, it’s bad.” – Cory House
 
 Thanks for visiting! Don't forget to ⭐️ your favorite repos and follow for more Flutter goodness!
 
