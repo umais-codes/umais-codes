@@ -66,7 +66,7 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 <div style="border: 1px solid #ccc; padding: 16px; border-radius: 12px; background-color: #1e1e1e; color: #fff;">
   <blockquote>
-    “Code is like humor. When you have to explain it, it’s bad.” – <i>Cory House</i>
+  <b>“Code is like humor. When you have to explain it, it’s bad.” – <i>Cory House</i></b>
   </blockquote>
 </div>
 
