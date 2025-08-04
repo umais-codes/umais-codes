@@ -4,9 +4,9 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💼 About Me
 
-* 🔭 Currently building: Full-stack Flutter apps (including translator, laundry, and productivity tools)
+* 🐭 Currently building: Full-stack Flutter apps (including translator and productivity tools)
 * 🌱 Learning: Advanced state management, animations, and backend integration
 * 🧠 Exploring: AI integration with Flutter, Firebase, and REST APIs
 
@@ -28,39 +28,50 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## 💼 Featured Projects
 
-| Project             | Description                                                          | Tech                    |
-| ------------------- | -------------------------------------------------------------------- | ----------------------- |
-| 🗣️ Translator App  | Real-time file and text translation app using MyMemory API           | Flutter, Provider       |
-| 🧺 Laundry App      | Complete laundry ordering app with cart, fragrance, and packaging UI | Flutter, Provider, UI   |
-| 🍽️ Food App Design | Visually appealing food ordering UI with custom card and grid layout | Flutter, UI Design      |
+| Project             | Description                                                          | Tech                  |
+| ------------------- | -------------------------------------------------------------------- | --------------------- |
+| 🗣️ Translator App  | Real-time file and text translation app using MyMemory API           | Flutter, Provider     |
+| 🌡️ Laundry App     | Complete laundry ordering app with cart, fragrance, and packaging UI | Flutter, Provider, UI |
+| 🍽️ Food App Design | Visually appealing food ordering UI with custom card and grid layout | Flutter, UI Design    |
+| 🧠 Productivity App | Clean and elegant UI for task/project tracking                       | Flutter, Provider, UI |
 
 ---
 
-## 📫 How to Reach Me
+## 📢 How to Reach Me
 
 * 📧 Email: [umaisanjum8686@gmail.com](mailto:umaisanjum8686@gmail.com)
 * 🌐 LinkedIn: [Umais Anjum](https://www.linkedin.com/in/umais-anjum/)
-* 🐦 Twitter: [AnjumUmais](https://x.com/AnjumUmais)
+* 🕊️ Twitter: [AnjumUmais](https://x.com/AnjumUmais)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais86&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais86&layout=compact&theme=radical)
+![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais86\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais86\&layout=compact\&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=umais86\&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umais86&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umais86\&theme=radical\&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
-> “Code is like humor.  
-> When you have to explain it, it’s bad.” – *Cory House*
+<div style="border: 1px solid #ccc; padding: 16px; border-radius: 12px; background-color: #1e1e1e; color: #fff;">
+  <blockquote>
+    “Code is like humor. When you have to explain it, it’s bad.” – <i>Cory House</i>
+  </blockquote>
+</div>
 
 ---
 
-Let's Connect  
-Thanks for visiting! Don't forget to ⭐️ your favorite repos and follow for more Flutter goodness!
+### 🌟 Let's Connect
+
+Thanks for visiting! Don’t forget to ⭐️ your favorite repos and follow for more Flutter goodness!
