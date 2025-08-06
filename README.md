@@ -47,24 +47,24 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## 📊 GitHub Stats
 
-![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais86\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais86\&layout=compact\&theme=radical)
+![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais86&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais86&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=umais86\&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=umais86&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umais86\&theme=radical\&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umais86&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
-<div style="border: 1px solid #ccc; padding: 16px; border-radius: 12px; background-color: #1e1e1e; color: #fff;">
+<div style="border: 2px solid #ccc; padding: 16px; border-radius: 12px; background-color: #1e1e1e; color: #fff;">
   <blockquote>
   <b>“Code is like humor. When you have to explain it, it’s bad.” – <i>Cory House</i></b>
   </blockquote>
