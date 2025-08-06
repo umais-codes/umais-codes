@@ -60,9 +60,9 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## 🔥 GitHub Streak
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=umais86&theme=radical&hide_border=false" alt="umais86's GitHub Streak"/>
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=umais86&theme=radical&hide_border=false)
+
+
 
 ---
 
