@@ -61,6 +61,7 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=umais86&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umais86&theme=radical&hide_border=false)
 
 
 
