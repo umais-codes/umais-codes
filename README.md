@@ -47,7 +47,7 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## 📊 GitHub Stats
 
-![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais86&show_icons=true&theme=radical)  
+![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais86&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais86&layout=compact&theme=radical)
 
 ---
@@ -60,7 +60,9 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umais86&theme=radical&hide_border=false)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=umais86&theme=radical&hide_border=false" alt="umais86's GitHub Streak"/>
+</a>
 
 ---
 
