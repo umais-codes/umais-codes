@@ -6,9 +6,9 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## 👨‍💼 About Me
 
-* 🐭 Currently building: Full-stack Flutter apps (including translator and productivity tools)
-* 🌱 Learning: Advanced state management, animations, and backend integration
-* 🧠 Exploring: AI integration with Flutter, Firebase, and REST APIs
+* 🐭 Currently building: Full-stack Flutter apps (including translator and productivity tools)  
+* 🌱 Learning: Advanced state management, animations, and backend integration  
+* 🧠 Exploring: AI integration with Flutter, Firebase, and REST APIs  
 
 ---
 
@@ -21,6 +21,7 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Provider-0A8F5C?style=for-the-badge&logo=provider&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-9400D3?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-1E90FF?style=for-the-badge"/>
 </p>
 
@@ -39,16 +40,16 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## 📢 How to Reach Me
 
-* 📧 Email: [umaisanjum8686@gmail.com](mailto:umaisanjum8686@gmail.com)
-* 🌐 LinkedIn: [Umais Anjum](https://www.linkedin.com/in/umais-anjum/)
-* 🕊️ Twitter: [AnjumUmais](https://x.com/AnjumUmais)
+* 📧 Email: [umaisanjum8686@gmail.com](mailto:umaisanjum8686@gmail.com)  
+* 🌐 LinkedIn: [Umais Anjum](https://www.linkedin.com/in/umais-anjum/)  
+* 🕊️ Twitter: [AnjumUmais](https://x.com/AnjumUmais)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais86&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais86&layout=compact&theme=radical)
+![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais86&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais86&layout=compact&theme=radical)  
 
 ---
 
@@ -66,10 +67,11 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ---
 
-<div style="border: 2px solid #ccc; padding: 16px; border-radius: 12px; background-color: #1e1e1e; color: #fff;">
-  <blockquote>
-  <b>“Code is like humor. When you have to explain it, it’s bad.” – <i>Cory House</i></b>
-  </blockquote>
+## ✨ Quote
+
+<div align="center" style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #2c3e50, #4ca1af); color: #fff; font-style: italic; font-size: 16px; box-shadow: 0px 4px 12px rgba(0,0,0,0.2);">
+  <b>“Code is like humor. When you have to explain it, it’s bad.”</b>  
+  <br/>– <i>Cory House</i>
 </div>
 
 ---
