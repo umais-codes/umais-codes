@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://raw.githubusercontent.com/umais86/umais86/main/assets/banner.png)
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRylrjVOKPlFxtIW85ZYUECwpDcyVPYH11Qw&s)
 
 # 👋 Hi, I'm Umais Anjum (umais86)
 
