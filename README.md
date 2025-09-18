@@ -1,3 +1,6 @@
+<!-- Profile Banner -->
+![Banner](https://via.placeholder.com/1000x250.png?text=Umais+Anjum+-+Flutter+Developer)
+
 # 👋 Hi, I'm Umais Anjum (umais86)
 
 Welcome to my GitHub! I'm a passionate Flutter developer focused on building beautiful, functional, and performance-optimized apps. I enjoy turning complex ideas into smooth and intuitive user experiences. 🚀
@@ -29,20 +32,20 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## 💼 Featured Projects
 
-| Project             | Description                                                          | Tech                  |
-| ------------------- | -------------------------------------------------------------------- | --------------------- |
-| 🗣️ Translator App  | Real-time file and text translation app using MyMemory API           | Flutter, Provider     |
-| 🌡️ Laundry App     | Complete laundry ordering app with cart, fragrance, and packaging UI | Flutter, Provider, UI |
-| 🍽️ Food App Design | Visually appealing food ordering UI with custom card and grid layout | Flutter, UI Design    |
-| 🧠 Productivity App | Clean and elegant UI for task/project tracking                       | Flutter, Provider, UI |
+| Project             | Description                                                          | Tech                  | Preview |
+| ------------------- | -------------------------------------------------------------------- | --------------------- | ------- |
+| 🗣️ Translator App  | Real-time file and text translation app using MyMemory API           | Flutter, Provider     | <img src="https://via.placeholder.com/100x200.png?text=App+UI" width="100"/> |
+| 🌡️ Laundry App     | Complete laundry ordering app with cart, fragrance, and packaging UI | Flutter, Provider, UI | <img src="https://via.placeholder.com/100x200.png?text=App+UI" width="100"/> |
+| 🍽️ Food App Design | Visually appealing food ordering UI with custom card and grid layout | Flutter, UI Design    | <img src="https://via.placeholder.com/100x200.png?text=App+UI" width="100"/> |
+| 🧠 Productivity App | Clean and elegant UI for task/project tracking                       | Flutter, Provider, UI | <img src="https://via.placeholder.com/100x200.png?text=App+UI" width="100"/> |
 
 ---
 
 ## 📢 How to Reach Me
 
-* 📧 Email: [umaisanjum8686@gmail.com](mailto:umaisanjum8686@gmail.com)  
-* 🌐 LinkedIn: [Umais Anjum](https://www.linkedin.com/in/umais-anjum/)  
-* 🕊️ Twitter: [AnjumUmais](https://x.com/AnjumUmais)  
+[![Email](https://img.shields.io/badge/Email-umaisanjum8686%40gmail.com-red?logo=gmail)](mailto:umaisanjum8686@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umais%20Anjum-blue?logo=linkedin)](https://www.linkedin.com/in/umais-anjum/)  
+[![Twitter](https://img.shields.io/badge/Twitter-AnjumUmais-1DA1F2?logo=twitter)](https://x.com/AnjumUmais)  
 
 ---
 
@@ -64,6 +67,12 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=umais86&theme=radical&hide_border=false">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umais86&theme=radical&hide_border=false" alt="umais86's GitHub Streak"/>
 </a>
+
+---
+
+## 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umais86&theme=radical)
 
 ---
 
