@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRylrjVOKPlFxtIW85ZYUECwpDcyVPYH11Qw&s)
+![Banner](https://www.canva.com/design/DAGzVeihN4o/35j06ZLJcFM-p-SL9gUXUw/view?utm_content=DAGzVeihN4o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0e2bb01a63)
 
 # 👋 Hi, I'm Umais Anjum (umais86)
 
