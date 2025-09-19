@@ -76,7 +76,18 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## ✨ Quote
 
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+<div align="center">
+
+<img src="https://img.shields.io/badge/✨-Quote-orange?style=for-the-badge" />
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+
+— **Cory House**
+
+</div>
+
+---
+
 
 ---
 
