@@ -74,20 +74,19 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ---
 
-## ✨ Quote
+## ✨ Favorite Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Cory House Quote"/>
+</p>
 
 ---
 
-![Quote](https://img.shields.io/badge/✨%20Quote-Inspiration%20for%20Coders-blueviolet?style=for-the-badge&logo=flutter)
+## 🔄 Random Quote
 
-> 💡 *"Code is like humor. When you have to explain it, it’s bad."*  
-> — **Cory House**
-
----
-
-
----
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Quote"/>
+</p>
 
 ---
 
