@@ -76,15 +76,15 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## ✨ Quote
 
-<div align="center">
+---
 
-<img src="https://img.shields.io/badge/✨-Quote-orange?style=for-the-badge" />
+![Quote](https://img.shields.io/badge/✨%20Quote-Inspiration%20for%20Coders-blueviolet?style=for-the-badge&logo=flutter)
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+> 💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+> — **Cory House**
 
-— **Cory House**
+---
 
-</div>
 
 ---
 
