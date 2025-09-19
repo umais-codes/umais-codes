@@ -1,5 +1,6 @@
 <!-- Profile Banner -->
-![Banner](https://www.canva.com/design/DAGzVeihN4o/35j06ZLJcFM-p-SL9gUXUw/view?utm_content=DAGzVeihN4o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0e2bb01a63)
+![Banner](https://raw.githubusercontent.com/umais86/umais86/main/banner.png)
+
 
 # 👋 Hi, I'm Umais Anjum (umais86)
 
