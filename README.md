@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://raw.githubusercontent.com/umais86/umais86/main/banner.png)
+![Banner](https://raw.githubusercontent.com/umais-codes/umais-codes/main/banner.png)
 
 
 # 👋 Hi, I'm Umais Anjum (umais-codes)
@@ -50,27 +50,27 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## 📊 GitHub Stats
 
-![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais86&show_icons=true&theme=radical)  
+![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais-codes&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais86&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais-codes&layout=compact&theme=radical)  
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=umais86&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=umais-codes&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=umais86&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=umais-codes&theme=radical&hide_border=false)
 
 ---
 
 ## 📈 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umais86&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umais-codes&theme=radical)
 
 ---
 
