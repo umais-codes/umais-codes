@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://raw.githubusercontent.com/umais-codes/umais-codes/main/banner.png)
+![Banner](https://raw.githubusercontent.com/umais-codes/umais-codes/main/umais-.png)
 
 
 # 👋 Hi, I'm Umais Anjum (umais-codes)
