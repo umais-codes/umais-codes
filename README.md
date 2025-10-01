@@ -68,12 +68,6 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ---
 
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umais-codes&theme=radical)
-
----
-
 ## ✨ Favorite Quote
 
 <p align="center">
