@@ -42,9 +42,7 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## 📢 How to Reach Me
 
-📧 [Email](mailto:umaisanjum8686@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/umais-anjum/)  
-🕊️ [Twitter](https://x.com/AnjumUmais)  
+📧 [Email](mailto:umaisanjum8686@gmail.com)  🌐 [LinkedIn](https://www.linkedin.com/in/umais-anjum/)  🕊️ [Twitter](https://x.com/AnjumUmais)  
 
 ---
 
