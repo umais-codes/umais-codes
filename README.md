@@ -48,7 +48,8 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ## 📊 GitHub Stats
 
-![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais-codes&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais-codes&layout=compact&theme=radical)
+![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais-codes&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais-codes&layout=compact&theme=radical)
+
 
 ---
 
