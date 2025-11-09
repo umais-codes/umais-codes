@@ -1,7 +1,3 @@
-<!-- Profile Banner -->
-![Banner](https://raw.githubusercontent.com/umais-codes/umais-codes/main/umais-.png)
-
-
 # 👋 Hi, I'm Umais Anjum (umais-codes)
 
 Welcome to my GitHub! I'm a passionate Flutter developer focused on building beautiful, functional, and performance-optimized apps. I enjoy turning complex ideas into smooth and intuitive user experiences. 🚀
