@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 | 🗣️ Translator App  | Real-time file and text translation app using MyMemory API           | Flutter, Provider     |
 | 🌡️ Laundry App     | Complete laundry ordering app with cart, fragrance, and packaging UI | Flutter, Provider, UI |
 | 🍽️ Food App Design | Visually appealing food ordering UI with custom card and grid layout | Flutter, UI Design    |
-| 🧠 Productivity App | Clean and elegant UI for task/project tracking                       | Flutter, Provider, UI |
+| 🧠 Productivity App | Clean and elegant UI for task/project tracking                       | Flutter, UI |
 
 ---
 
