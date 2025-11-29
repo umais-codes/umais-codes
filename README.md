@@ -69,14 +69,6 @@ Welcome to my GitHub! I'm a passionate Flutter developer focused on building bea
 
 ---
 
-## 🔄 Random Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Quote"/>
-</p>
-
----
-
 ### 🌟 Let's Connect
 
 Thanks for visiting! Don’t forget to ⭐️ your favorite repos and follow for more Flutter goodness!
