@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://github.com/umais-codes/umais-codes/blob/e6972edd92f7cfa026bcb7061682a52664fc4254/linkedin%20banner.png)" width="100%" alt="Umais Anjum Banner" />
+  <img src="https://github.com/umais-codes/umais-codes/blob/e6972edd92f7cfa026bcb7061682a52664fc4254/linkedin%20banner.png" width="100%" alt="Umais Anjum Banner" />
 </div>
 
 <br/>
