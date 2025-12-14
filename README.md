@@ -1,74 +1,103 @@
+<div align="center">
+  <img src="(https://github.com/umais-codes/umais-codes/blob/e6972edd92f7cfa026bcb7061682a52664fc4254/linkedin%20banner.png)" width="100%" alt="Umais Anjum Banner" />
+</div>
+
+<br/>
+
 # 👋 Hi, I'm Umais Anjum (umais-codes)
 
-Welcome to my GitHub! I'm a passionate Flutter developer focused on building beautiful, functional, and performance-optimized apps. I enjoy turning complex ideas into smooth and intuitive user experiences. 🚀
+> **Passionate Flutter Developer | Cross-Platform Specialist | UI/UX Enthusiast**
+
+Welcome to my GitHub! I specialize in building high-performance mobile applications with seamless animations and complex backend integrations. I enjoy turning complex logic into smooth, intuitive user experiences across Android & iOS. 🚀
 
 ---
 
 ## 👨‍💼 About Me
 
-- 🐭 Currently building: Full-stack Flutter apps (including translator and productivity tools)  
-- 🌱 Learning: Advanced state management, animations, and backend integration  
-- 🧠 Exploring: AI integration with Flutter, Firebase, and REST APIs  
+- 🔭 **Currently building:** Enterprise-level **LMS (Learning Management Systems)** for schools and universities.
+- 🌱 **Learning:** Advanced AI integration (Python models) & Backend Architecture.
+- 💼 **Experience:** Hands-on with **Firebase, SQLite, Supabase**, and **REST API** integration.
+- ⚡ **Fun fact:** I love experimenting with Voice AI and Image Synthesis in mobile apps!
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-0A8F5C?style=for-the-badge&logo=provider&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-9400D3?style=for-the-badge&logo=flutter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-1E90FF?style=for-the-badge)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Provider-0A8F5C?style=for-the-badge&logo=provider&logoColor=white" />
+<img src="https://img.shields.io/badge/GetX-9400D3?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-1E90FF?style=for-the-badge&logo=postman&logoColor=white" />
+
+</div>
 
 ---
 
 ## 💼 Featured Projects
 
-| Project             | Description                                                          | Tech                  |
-| ------------------- | -------------------------------------------------------------------- | --------------------- |
-| 🗣️ Translator App  | Real-time file and text translation app using MyMemory API           | Flutter, Provider     |
-| 🌡️ Laundry App     | Complete laundry ordering app with cart, fragrance, and packaging UI | Flutter, Provider, UI |
-| 🍽️ Food App Design | Visually appealing food ordering UI with custom card and grid layout | Flutter, UI Design    |
-| 🧠 Productivity App | Clean and elegant UI for task/project tracking                       | Flutter, UI |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🏫 LMS (Education)** | A dual-app system (Teacher & Student) managing attendance, results, salary slips, and document uploads. | `Flutter` `REST API` `MERN Backend` |
+| **🧺 Akoya Laundry** | A complete commercial laundry ordering solution with cart management, fragrance selection, and order tracking. | `Flutter` `Provider` `Firebase` |
+| **🤖 AI Exam Gen** | An intelligent exam paper generator integrating Python-based AI models into a sleek mobile interface. | `Flutter` `Python` `API` |
+| **🗣️ Translator App** | Real-time file and text translation tool using the MyMemory API with a clean UI. | `Flutter` `Http` |
 
 ---
 
-## 📢 How to Reach Me
+## 📢 Let's Connect
 
-📧 [Email](mailto:umaisanjum8686@gmail.com)  🌐 [LinkedIn](https://www.linkedin.com/in/umais-anjum/)  🕊️ [Twitter](https://x.com/AnjumUmais)  
+<div align="center">
+
+<a href="mailto:umaisanjum8686@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/umais-anjum/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://x.com/AnjumUmais">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais-codes&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais-codes&layout=compact&theme=radical)
+<div align="center">
 
+![Umais's GitHub stats](https://github-readme-stats.vercel.app/api?username=umais-codes&show_icons=true&theme=radical)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umais-codes&layout=compact&theme=radical)
 
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=umais-codes&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=umais-codes&theme=radical&hide_border=false)
+</div>
 
 ---
 
-## ✨ Favorite Quote
+## 🔥 Streak & Trophies
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=umais-codes&theme=radical&hide_border=true)
+<br/><br/>
+![trophy](https://github-profile-trophy.vercel.app/?username=umais-codes&theme=radical&no-frame=true&margin-w=15)
+
+</div>
+
+---
+
+### ✨ Favorite Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Cory House Quote"/>
 </p>
-
----
-
-### 🌟 Let's Connect
-
-Thanks for visiting! Don’t forget to ⭐️ your favorite repos and follow for more Flutter goodness!
