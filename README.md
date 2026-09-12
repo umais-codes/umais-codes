@@ -62,11 +62,7 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=umais-codes&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=umais-codes&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-
 </div>
-
 ---
 ## 📌 Open To
 
