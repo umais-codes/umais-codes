@@ -63,7 +63,6 @@
 
 <img src="https://streak-stats.demolab.com?user=umais-codes&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
----
 ## 📌 Open To
 
 - Flutter Developer (Remote / Onsite)
@@ -80,11 +79,9 @@
 <a href="mailto:umais.appdev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/umais-anjum/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://github.com/umais-codes">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
